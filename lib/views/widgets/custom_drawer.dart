@@ -24,15 +24,15 @@ class DrawerWidget extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 30,
-            backgroundImage: AssetImage("images/mardon.png"),
+            backgroundImage: AssetImage(""),
           ),
           SizedBox(height: 10),
-          Text("Hakimov Mardon",
+          Text("Obidov Hojimurod",
               style:
                   TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
           SizedBox(height: 5),
           Text(
-            "+998 97 421 0412",
+            "+998 94 009 03 56",
             style: TextStyle(color: Colors.white),
           ),
         ],
